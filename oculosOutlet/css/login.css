@@ -1,0 +1,224 @@
+@charset "UTF-8";
+
+@font-face{
+
+	font-family: 'fonte2';
+	src: url('../fonte/PlayfairDisplay-Italic.ttf');
+}
+
+body#image{
+
+background: url('../_imagens/madeira.jpg');
+background-size: 1000px 1200px;
+
+
+}
+
+
+
+div#interface{/*ajuste de distancia do topo*/
+
+	width: 400px;/*tamanho do bloco principal do site*/
+	background-color: #ffffff;
+	margin: 40px auto 0px auto;
+	box-shadow: 0px 0px 10px rgba(0,0,0,.7);
+	padding: 10px;
+	position:relative;
+	font-family: 'Arial', sans-serif;
+	border-radius: 10px;
+}
+
+
+form#fContato {
+	width: 400px;
+	margin:auto;
+}
+
+
+form#fContato button#entrar{
+	border-radius: 3px;
+	position: relative;
+	padding: 15px;
+	left:320px;
+	background-color:#DAA520;
+	border-color: white;
+	top:10px;
+	
+	left:78%;
+	font-family: 'Arial';
+}
+
+
+form#fContato button#entrar:hover{
+
+	color:#DAA520;
+	text-decoration:none;
+	
+}
+
+
+
+
+legend{
+	color: #888888;
+	font-weight: bold;
+	font-size: 13pt;
+	font-family: sans-serif; 
+}
+fieldset{
+	border-color:#cecece;
+	
+}
+
+
+fieldset#logar{
+	/*background: url("../img/icone-contato.png") no-repeat 95% 40%;*/
+	border-radius: 10px;
+}
+
+
+
+/*------------------------------------------------------------------------------------*/
+body {
+	font-family: 'Arial', sans-serif;
+	background-color: #B8860B;
+	color: rgba(0,0,0,1);
+}
+/*------------------------------------------------------------------------------------*/
+
+
+
+p {
+	text-align:justify;/*ajuste de texto*/
+	text-indent: 50px;
+	font-family:'Arial', helvetica, sans-serif; 
+}
+
+/*------------------------------------------------------------------------------------*/
+
+header#cabecalho img#logotipo{/*ajuste de logotipo*/
+	position: absolute;
+	left: 10px;
+	top: 80px;
+	border-radius: 100px 100px 100px ;/*borda da imagem logotipo*/;
+	box-shadow: 1px 1px 4px 5px white;
+
+	}
+
+
+/*-----------------------------------------------------------------------------------*/
+/*FORMATAÇÃO DE IMAGEM NO BLOCO TEMA E CABEÇALHO*/
+
+header#cabecalho {
+	border-bottom: 55px #DAA520 solid;
+	height: 155px;/*tamanho do container*/
+	margin-top: 0px;
+	
+	position: relative;
+	top: -40px;
+	
+
+}
+
+
+/*----------------------------------------------*/
+/*FORMATAÇÃO DE TITULOS CABEÇALHO*/
+
+
+header#cabecalho-artigo h2 {
+	font-size: 13pt;			
+	color: #cecece;				 
+	background-color: #ffffff;	 
+	 
+	font-family: 'fonte2', sans-serif;				 
+}
+
+
+
+/*------------------------------------------------------------------------------------*/
+/*FORMATAÇÃO DO MENU DE LINKS*/
+
+nav#menu{
+	display:block;
+	
+
+}
+
+nav#menu ul {/*posição do menu*/
+	list-style: none;
+	
+	position: absolute;
+	top: 0px;
+	left: 142px;
+	
+}
+
+nav#menu li{
+
+	display: inline-block;
+	background-color: #DAA520;
+	padding: 14px;
+	margin: -3px;
+	transition: background-color 1s;
+	
+}
+
+nav#menu li#multi{
+	
+	border-radius: 0px 10px 10px 0px; 
+}
+
+nav#menu li#cadastro{
+
+	margin-top: 115px; 
+}
+
+nav#menu h1{
+	display: none;
+	
+}
+
+nav#menu a{
+	color: #000000;
+	text-decoration:none;
+	
+}
+
+nav#menu li#redondo1{
+	border-radius: 10px 0px 0px 10px;
+}
+
+nav#menu li#redondo2{
+	border-radius: 0px 10px 10px 0px;
+}
+
+
+nav#menu a:hover{
+
+	color:#ffffff;
+	text-decoration:none;
+	
+}
+
+article#noticia-principal h2 {/*FORMATAÇÃO DE TITULOS COM TARJA CINJA*/
+	font-size: 12pt;
+	color: #606060;
+	background-color:#dddddd;
+	padding: 5px 0px 5px 10px;
+	margin: 10px 0PX 10PX 0PX;
+
+}
+
+
+footer#rodape {/*FORMATAÇÃO LINHA FINAL DA PAGINA*/
+	clear: both;
+	border-top: 1px solid #bebebe;
+	margin-top: 30px;
+}
+
+footer#rodape p{/*ALINHAMENTO DE TEXTO AO FINAL DA PAGINA*/
+	text-align: center;
+	margin-top:20px;
+}
+
+/*--------------------------------------------------------------------------------------*/

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    
+    <link rel="stylesheet" href="css/login.css"/>
+    <meta charset="UTF-8"/>
+    <title>Login</title>
+    <script src="https://kit.fontawesome.com/2198696111.js" crossorigin="anonymous"></script>
+</head>
+<!------------------------------------------------------------------------------------------------>
+<body id="image">
+<div id="interface">
+
+<header id="cabecalho">
+
+
+<img id= "logotipo" src="img/sol2.jpg"/>
+
+</header>
+<section>
+<!------------------------------------------------------------------------------------------------>
+<article id="noticia-principal">
+
+<!------------------------------------------------------------------------------------------------>
+<header id="cabecalho-artigo">
+    <hgroup>
+     
+     <h2>Identifique-se:</h2>
+                    
+    </hgroup>
+</header>
+<!------------------------------------------------------------------------------------------------>
+    <nav id= "menu">
+        
+        <ul>
+            <li><a href= "index.html"><i class="fas fa-home"></i> Home</a></li>                     
+            <li id="cadastro"><a href= "cadastro.html"><i class="fas fa-user-plus"></i> Cadastre-se</a></li>
+        </ul>
+    </nav>
+
+<section>
+
+    <form method="POST" id="fContato" action="php/logar.php">
+
+        <fieldset id="logar">
+            <p><label for="cMail"><i class="fas fa-envelope"></i> 
+            </label><input type="email" name="tMail" id="cMail" size="20" maxlength="40" placeholder="Digite um e-mail"></p>
+
+            <p><label for="cSenha"><i class="fas fa-key"></i> </label><input type="password" name="tSenha" id= "cSenha" size="8" maxlength="8" placeholder="Digite a senha"></p>
+
+        </fieldset>
+
+<!------------------------------------------------------------------------------------------------>
+
+    <button id="entrar" type="submit" value="Entrar"><i class="fas fa-sign-in-alt"></i> Entrar</button>
+
+    </form>
+    
+<!------------------------------------------------------------------------------------------------>
+<footer id="rodape">
+    <p>Copyright &copy 2020</p>                          <!--RODAPÉ-->
+
+   
+</footer>
+
+<!------------------------------------------------------------------------------------------------>
+</article>
+</section>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="62c31fc6-54c7-4e35-955f-8eb8621e2702" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1kTkItW3REQoSL26HKOeA8NiMID" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../login.html" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\php" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="conexao.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/conexao.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.conexao.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62c31fc6-54c7-4e35-955f-8eb8621e2702" name="Default Changelist" comment="" />
+      <created>1605731900382</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605731900382</updated>
+      <workItem from="1605731905315" duration="5007000" />
+      <workItem from="1605801319220" duration="30433000" />
+      <workItem from="1605907636907" duration="4372000" />
+      <workItem from="1605912566715" duration="1615000" />
+      <workItem from="1605984483423" duration="3353000" />
+      <workItem from="1606082798159" duration="3276000" />
+      <workItem from="1606416471993" duration="611000" />
+      <workItem from="1606480731593" duration="606000" />
+      <workItem from="1606695091370" duration="5034000" />
+      <workItem from="1606769514404" duration="14662000" />
+      <workItem from="1606785393864" duration="1220000" />
+      <workItem from="1606787248880" duration="897000" />
+      <workItem from="1607133767963" duration="5538000" />
+      <workItem from="1607388754409" duration="306000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="263" y="24" key="#CLI_Interpreters" timestamp="1605735168063">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="263" y="24" key="#CLI_Interpreters/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1605735168063" />
+    <state x="309" y="47" key="#Inspections" timestamp="1607133978158">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="309" y="47" key="#Inspections/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1607133978158" />
+    <state x="390" y="12" key="#PHP" timestamp="1605735174427">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="390" y="12" key="#PHP/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1605735174427" />
+    <state x="275" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607135657442">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1607135657442" />
+    <state x="426" y="171" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605889636309">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="426" y="171" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1605889636309" />
+    <state x="256" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1606083283442">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="256" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.738@0.0.1366.738" timestamp="1606083283442" />
+    <state x="413" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605906827017">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1605906827017" />
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1606082864782">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1605890884725" />
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1606082864782" />
+    <state x="511" y="92" key="NewPhpClassDialog" timestamp="1606779063107">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="511" y="92" key="NewPhpClassDialog/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1606779063107" />
+    <state x="517" y="292" key="NewPhpFileDialog" timestamp="1606779433307">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="517" y="292" key="NewPhpFileDialog/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1606779433307" />
+    <state x="517" y="292" key="NewPhpFileDialog/0.0.1366.738@0.0.1366.738" timestamp="1606083437720" />
+    <state x="199" y="12" key="SettingsEditor" timestamp="1605735302358">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="199" y="12" key="SettingsEditor/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1605735302358" />
+    <state x="339" y="165" key="run.anything.popup" timestamp="1607134729346">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="165" key="run.anything.popup/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1607134729346" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1605890334053">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738/1366.0.1366.738@0.0.1366.738" timestamp="1605890334053" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/dados.php</url>
+          <line>54</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

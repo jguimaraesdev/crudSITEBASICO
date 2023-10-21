@@ -1,0 +1,113 @@
+@charset "UTF-8";
+div#interface_usuario{/*ajuste de distancia do topo*/
+
+	width: 190px;/*tamanho do bloco principal do site*/
+	background-color: #ffffff;
+	margin: 61px auto 0px 10px;
+	box-shadow: 0px 0px 10px rgba(0,0,0,.5);
+	padding: 2px 10px 10px 10px;
+	
+	margin-left: -10px;
+	margin-top: 30;
+}
+
+
+/*------------------------------------------------------------------------------------*/
+
+header#menuuser img#logotipo{/*ajuste de logotipo*/
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	border: 8px solid white/*borda da imagem logotipo*/;
+	box-shadow: 1px 1px 4px black;
+
+	}
+/*------------------------------------------------------------------------------------*/
+header#menuuser h1{
+	font-family:'fonte2';
+	font-size: 30pt;
+	color: #606060;
+	text-shadow: 1px 1px 1px rgba(0,0,0,.6);
+	padding: 0px;
+	margin-top: 100px;/*ajuste vertical do titulo*/
+	margin-left: 300px;/*ajuste horizontal do titulo*/
+}
+
+header#menuuser h2{
+	font-family: 'fonte2';
+	font-size: 15pt;
+	color: #888888;
+	padding: 0px;
+	margin-left: 500px;
+	top: 20px;
+	padding: 0px;
+	margin-top: 0px;/*ajuste vertical do subtitulo*/
+	margin-left: 400px;/*ajuste horizontal do subtitulo*/
+	}
+
+/*-----------------------------------------------------------------------------------*/
+/*FORMATAÇÃO DE IMAGEM NO BLOCO TEMA E CABEÇALHO*/
+
+header#menuuser{/*ajuste de imagem tema cabeçalho*/
+	border-bottom: 1px #606060 solid;
+	height: 300px;/*tamanho do container*/
+	
+	
+	margin-top: 0px;
+	border: 6px solid white;/*borda do cabeçalho*/
+	box-shadow: 1px 1px 6px black;
+	
+	position: relative;
+	top: 0px;
+}
+
+/*------------------------------------------------------------------------------------*/
+/*FORMATAÇÃO DO MENU DE LINKS*/
+
+nav#menuuser{
+	display: block;
+
+
+}
+
+nav#menuuser ul {/*posição do menu*/
+	list-style: none;
+	text-transform: uppercase;
+	position: absolute;
+	top: 0px;
+	left: -30px;
+
+}
+
+nav#menuuser li:hover {
+	background-color: #708090;
+
+}
+
+nav#menuuser li{
+
+	position: relative;
+	background-color: #BEBEBE;
+	padding: 14px;
+	margin: -3px;
+	transition: background-color 1s;
+
+}
+
+nav#menuuser h1{
+	display: none;
+
+}
+
+nav#menuuser a{
+	color: #000000;
+	text-decoration: none;
+
+}
+
+nav#menuuser a:hover{
+
+	color:#ffffff;
+	text-decoration:;
+}
+/*--------------------------------------------------------------------------------------*/
